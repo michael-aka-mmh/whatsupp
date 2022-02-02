@@ -4,18 +4,20 @@
     "url": "https://www.docufy.de",
     "icon": "https://favicons.githubusercontent.com/www.docufy.de",
     "slug": "dy-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 930,
-    "timeWeek": 741,
-    "timeMonth": 741,
-    "timeYear": 741,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1445,
+    "timeDay": 2244,
+    "timeWeek": 1445,
+    "timeMonth": 1445,
+    "timeYear": 1445,
+    "dailyMinutesDown": {
+      "2022-02-02": 1
+    }
   },
   {
     "name": "DY Customer area",
