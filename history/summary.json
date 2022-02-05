@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.docufy.de",
     "slug": "dy-website",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1015,
-    "timeDay": 654,
-    "timeWeek": 1015,
-    "timeMonth": 1015,
-    "timeYear": 1015,
-    "dailyMinutesDown": {
-      "2022-02-04": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 954,
+    "timeDay": 344,
+    "timeWeek": 954,
+    "timeMonth": 954,
+    "timeYear": 954,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DY Customer area",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 987,
-    "timeDay": 1346,
-    "timeWeek": 987,
-    "timeMonth": 987,
-    "timeYear": 987,
+    "time": 986,
+    "timeDay": 980,
+    "timeWeek": 986,
+    "timeMonth": 986,
+    "timeYear": 986,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1129,
-    "timeDay": 1367,
-    "timeWeek": 1129,
-    "timeMonth": 1129,
-    "timeYear": 1129,
+    "time": 1200,
+    "timeDay": 1775,
+    "timeWeek": 1200,
+    "timeMonth": 1200,
+    "timeYear": 1200,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 55,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "time": 89,
+    "timeDay": 110,
+    "timeWeek": 89,
+    "timeMonth": 89,
+    "timeYear": 89,
     "dailyMinutesDown": {}
   }
 ]
