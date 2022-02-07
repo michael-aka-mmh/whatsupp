@@ -70,7 +70,7 @@
     "timeMonth": 2380,
     "timeYear": 2380,
     "dailyMinutesDown": {
-      "2022-02-07": 474
+      "2022-02-07": 486
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "$DY_SMO_P",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dy-smo-p",
-    "status": "down",
+    "status": "degraded",
     "uptime": "0.02%",
     "uptimeDay": "0.02%",
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.02%",
     "uptimeYear": "0.02%",
-    "time": 1515,
-    "timeDay": 1515,
-    "timeWeek": 1515,
-    "timeMonth": 1515,
-    "timeYear": 1515,
+    "time": 1592,
+    "timeDay": 1592,
+    "timeWeek": 1592,
+    "timeMonth": 1592,
+    "timeYear": 1592,
     "dailyMinutesDown": {
-      "2022-02-07": 474
+      "2022-02-07": 486
     }
   },
   {
