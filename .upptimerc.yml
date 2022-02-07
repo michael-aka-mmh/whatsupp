@@ -14,10 +14,25 @@ sites:
     url: $DY_VPN_IP
     port: 53
     maxResponseTime: 500
+  - name: DY SMO T
+    url: $DY_SMO_T
+    maxResponseTime: 1000
+  - name: DY SMO P
+    url: $DY_SMO_P
+    maxResponseTime: 1000
   - name: Privat
     url: http://michael.mueller-hillebrand.de
   - name: Google for reference
     url: https://www.google.com
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
