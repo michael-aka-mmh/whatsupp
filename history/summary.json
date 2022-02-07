@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dy-smo-t",
     "status": "degraded",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 2380,
     "timeDay": 2380,
     "timeWeek": 2380,
     "timeMonth": 2380,
     "timeYear": 2380,
     "dailyMinutesDown": {
-      "2022-02-07": 145
+      "2022-02-07": 150
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "$DY_SMO_P",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dy-smo-p",
-    "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 1696,
-    "timeDay": 1696,
-    "timeWeek": 1696,
-    "timeMonth": 1696,
-    "timeYear": 1696,
+    "status": "degraded",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 1729,
+    "timeDay": 1729,
+    "timeWeek": 1729,
+    "timeMonth": 1729,
+    "timeYear": 1729,
     "dailyMinutesDown": {
-      "2022-02-07": 144
+      "2022-02-07": 150
     }
   },
   {
