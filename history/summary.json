@@ -58,19 +58,19 @@
     "url": "$DY_SMO_T",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dy-smo-t",
-    "status": "degraded",
+    "status": "down",
     "uptime": "0.01%",
     "uptimeDay": "0.01%",
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 1846,
-    "timeDay": 1846,
-    "timeWeek": 1846,
-    "timeMonth": 1846,
-    "timeYear": 1846,
+    "time": 1667,
+    "timeDay": 1667,
+    "timeWeek": 1667,
+    "timeMonth": 1667,
+    "timeYear": 1667,
     "dailyMinutesDown": {
-      "2022-02-08": 471,
+      "2022-02-08": 554,
       "2022-02-07": 704
     }
   },
@@ -91,7 +91,7 @@
     "timeMonth": 1545,
     "timeYear": 1545,
     "dailyMinutesDown": {
-      "2022-02-08": 471,
+      "2022-02-08": 554,
       "2022-02-07": 703
     }
   },
