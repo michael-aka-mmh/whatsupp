@@ -70,7 +70,7 @@
     "timeMonth": 1595,
     "timeYear": 1595,
     "dailyMinutesDown": {
-      "2022-02-09": 341,
+      "2022-02-09": 346,
       "2022-02-08": 1440,
       "2022-02-07": 704
     }
@@ -92,7 +92,7 @@
     "timeMonth": 1461,
     "timeYear": 1461,
     "dailyMinutesDown": {
-      "2022-02-09": 341,
+      "2022-02-09": 346,
       "2022-02-08": 1440,
       "2022-02-07": 703
     }
@@ -120,19 +120,19 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google-for-reference",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 260,
-    "timeWeek": 120,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 109,
+    "timeDay": 197,
+    "timeWeek": 115,
+    "timeMonth": 109,
+    "timeYear": 109,
     "dailyMinutesDown": {
-      "2022-02-09": 0
+      "2022-02-09": 5
     }
   }
 ]
