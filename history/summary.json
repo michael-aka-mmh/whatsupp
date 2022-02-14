@@ -22,19 +22,19 @@
     "url": "https://customerarea.docufy.de",
     "icon": "https://favicons.githubusercontent.com/customerarea.docufy.de",
     "slug": "dy-customer-area",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1228,
-    "timeDay": 2067,
-    "timeWeek": 1291,
-    "timeMonth": 1228,
-    "timeYear": 1228,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1255,
+    "timeDay": 1945,
+    "timeWeek": 1332,
+    "timeMonth": 1255,
+    "timeYear": 1255,
     "dailyMinutesDown": {
-      "2022-02-14": 1
+      "2022-02-14": 5
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 1456,
     "timeYear": 1456,
     "dailyMinutesDown": {
-      "2022-02-14": 594,
+      "2022-02-14": 599,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
       "2022-02-11": 1440,
@@ -99,7 +99,7 @@
     "timeMonth": 1449,
     "timeYear": 1449,
     "dailyMinutesDown": {
-      "2022-02-14": 594,
+      "2022-02-14": 599,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
       "2022-02-11": 1440,
