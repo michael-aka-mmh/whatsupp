@@ -4,19 +4,19 @@
     "url": "https://www.docufy.de",
     "icon": "https://favicons.githubusercontent.com/www.docufy.de",
     "slug": "dy-website",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 855,
-    "timeWeek": 500,
-    "timeMonth": 662,
-    "timeYear": 662,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 644,
+    "timeDay": 632,
+    "timeWeek": 471,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2022-02-15": 1
+      "2022-02-15": 15
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 1463,
     "timeYear": 1463,
     "dailyMinutesDown": {
-      "2022-02-15": 1333,
+      "2022-02-15": 1348,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
@@ -100,7 +100,7 @@
     "timeMonth": 1446,
     "timeYear": 1446,
     "dailyMinutesDown": {
-      "2022-02-15": 1333,
+      "2022-02-15": 1348,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
