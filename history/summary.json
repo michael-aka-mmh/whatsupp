@@ -76,7 +76,7 @@
     "timeMonth": 1544,
     "timeYear": 1537,
     "dailyMinutesDown": {
-      "2022-03-11": 1036,
+      "2022-03-11": 1064,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
@@ -128,7 +128,7 @@
     "timeMonth": 1476,
     "timeYear": 1467,
     "dailyMinutesDown": {
-      "2022-03-11": 1036,
+      "2022-03-11": 1064,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
@@ -168,19 +168,19 @@
     "url": "http://michael.mueller-hillebrand.de",
     "icon": "https://favicons.githubusercontent.com/michael.mueller-hillebrand.de",
     "slug": "privat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1271,
-    "timeDay": 840,
-    "timeWeek": 1395,
-    "timeMonth": 1301,
-    "timeYear": 1271,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
+    "time": 1270,
+    "timeDay": 1025,
+    "timeWeek": 1372,
+    "timeMonth": 1298,
+    "timeYear": 1270,
     "dailyMinutesDown": {
-      "2022-03-11": 0
+      "2022-03-11": 28
     }
   },
   {
