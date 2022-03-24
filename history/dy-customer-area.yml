@@ -1,7 +1,7 @@
 url: https://customerarea.docufy.de
-status: up
+status: degraded
 code: 200
-responseTime: 1199
-lastUpdated: 2022-03-24T07:54:50.916Z
+responseTime: 3602
+lastUpdated: 2022-03-24T09:57:45.951Z
 startTime: Mon Jan 31 2022 17:00:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
