@@ -1,7 +1,7 @@
 url: $DY_SMO_T
-status: down
+status: degraded
 code: 400
-responseTime: 806
-lastUpdated: 2022-04-11T09:45:16.251Z
+responseTime: 1335
+lastUpdated: 2022-04-11T09:50:29.138Z
 startTime: Mon Feb 07 2022 12:16:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
